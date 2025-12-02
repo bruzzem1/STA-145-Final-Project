@@ -78,7 +78,7 @@ Because both variables are numeric, I use correlation and linear regression to s
 To reproduce the results in my project:
 
 1. Download this repository.
-2. Open **`yourname-final_project.R`** in RStudio (or base R).
+2. Open **`bruzzese-final_project.R`** in RStudio (or base R).
 3. Set the working directory at the top of the script so that R can find `data.csv`.
 4. Make sure the file name of the dataset is **`data.csv`**.
 5. Install and load the `dplyr` package if it is not already installed:
@@ -101,6 +101,6 @@ Running the script will:
 
 ## 6. Files in This Repository
 
-- `yourname-final_project.R` – R script with all analysis code  
+- `bruzzese-final_project.R` – R script with all analysis code  
 - `data.csv` – dataset used in the project  
 - `README.md` – documentation of variables, cleaning steps, and replication instructions 
