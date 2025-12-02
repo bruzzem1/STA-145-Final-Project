@@ -1,4 +1,4 @@
-# STA 145 Final Project – Replication Package
+# STA 145 Final Project 
 
 **Research question:**  
 How is a representative’s age related to their years of congressional service (measured as number of terms)?
